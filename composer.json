@@ -1,0 +1,18 @@
+{
+    "name": "daniel/test_g2",
+    "require-dev": {
+        "phpunit/phpunit": "^12.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Daniel\\TestG2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel MONTEIRO",
+            "email": "101821091+DanielDSM23@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
